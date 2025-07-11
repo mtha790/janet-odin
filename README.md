@@ -1,2 +1,5 @@
 # janet-odin
-Odin high level binding for janet
+
+🚧 **Work in Progress** - Janet language bindings for Odin, inspired by [janetrs](https://github.com/GrayJack/janetrs).
+
+See [TODO.md](TODO.md) for the implementation roadmap.
